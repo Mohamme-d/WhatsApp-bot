@@ -42,14 +42,13 @@ WhatsApp account ✅
 # Clone the repository
 git clone https://github.com/Mohamme-d/WhatsApp-bot.git
 
-# Navigate to the directory
-cd bot.js
-
 # Install dependencies
 npm install
-
+npm install qrcode-terminal
+npm install @whiskeysockets/baileys
 # Start the bot
-node index.js
+cd ~/WhatsApp-bot
+node bot.js
 
 🔑 Connecting to WhatsApp
 
