@@ -45,9 +45,11 @@ git clone https://github.com/Mohamme-d/WhatsApp-bot.git
 # Install dependencies
 npm install
 npm install qrcode-terminal
+
 npm install @whiskeysockets/baileys
 # Start the bot
 cd ~/WhatsApp-bot
+
 node bot.js
 
 🔑 Connecting to WhatsApp
@@ -73,7 +75,7 @@ YouTube: https://youtube.com/@hakimmohammed-e2h?si=eK9NLLYF2GUMtZcr
 
 Telegram:  https://t.me/ALRONIN313
 
-Support: https://github.com/Mohamme-d/WhatsApp-bot.git
+Support: https://wa.me/249917324929
 
 
 📢 Star the repository ⭐ if you like this project! Contributions are welcome! 🚀
